@@ -34,6 +34,14 @@ Bom quando o dominio é muito grande percebemos que podemos dividir eles em subd
 -espaço de solução: A ideia do espaço de solução é pegar o dominio e fazer a modelagem desse dominio, depois ir dividindo em subdominios, após isso eu delimito para meus subdominios contextos, onde cada subdominio se tem os seus contextos. 
 -Resumo: o que entendenmos por espaço de problema e de solução é que ver o problema que temos, começamos a modelar esse problema, separamos esses problema em problemas menores ai demilitamos esses problemas menores em pontos onde vamos começar a desenvolver. Assim temos o dominio modelado, dividido em subdominios e após isso a contextualização desses subdominios, delimitanto esses problemas em subdomnios onde vamos trabalhar com cada questão desse probelma maior.
 
-## O QUE SÃO CONTEXTOS:
+## O QUE SÃO CONTEXTOS DELIMITADOS: 
+
+-Bounded contexts (contexto delimitados): Bom os bounded context são limites ou fronteiras que temos entre nossos subdominios, tudo que é especifico de um negocio é delimitado por um bounded contexts.
+
+## CONTEXTO É REI: 
+
+- Um contexto sempre vai determinar em qual area da empresa estamos trabalhando e suas regras de negocios.
+  
+- Vamos supor que temos dois ticket um é de vendas de ingressos e outro de suporte de clientes, logo observamos que temos duas palavras iguais porém com contextos totalmente diferentes, logo observamos que os contextos estão delimitados.vamos supor que criamos uma entidade ticket, como vamos utilizar para os dois contextos?, não utilizamos criamos duas entidades ticket com contextos diferentes e modelagens diferentes.
 
 
