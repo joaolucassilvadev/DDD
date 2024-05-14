@@ -45,6 +45,6 @@ Bom quando o dominio é muito grande percebemos que podemos dividir eles em subd
 - Vamos supor que temos dois ticket um é de vendas de ingressos e outro de suporte de clientes, logo observamos que temos duas palavras iguais porém com contextos totalmente diferentes, logo observamos que os contextos estão delimitados.vamos supor que criamos uma entidade ticket, como vamos utilizar para os dois contextos?, não utilizamos criamos duas entidades ticket com contextos diferentes e modelagens diferentes.
 
 ## ELEMENTOS TRANSVERSAIS: 
-parei na aula 423
+Temos contextos delimitados diferentes
 
 
