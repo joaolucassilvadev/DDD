@@ -10,3 +10,11 @@
 -Não tem como utilizar tecnicas avançadas em projetos de alta complexidade. 
 -Grande parte da complexidade de software não vem de tecnologias, mas sim de comunicação, separação de contextos entendimentos de negocio, por diversos angulos
 
+##COMO O DDD PODE AJUDAR: 
+Ajuda entender com profundidade o dominio e subdomios da aplicação
+-ter uma linguagem universal entre todos os envolvidos
+-Criar um desing mais estrategico da minha aplicação, percebo que tenho um dominio e subdominios.
+-Crias um desing tatico, para conseguirmos maioro agregar as entidades e objetos de valor da aplicação, bem como os eventos do dominio
+-assim uma vez que temos isso conseguimos entender a complexidade do negocio e a complexidade tecnica.
+
+
